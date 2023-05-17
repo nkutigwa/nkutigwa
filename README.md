@@ -1,16 +1,27 @@
-### Hi there 👋
 
-<!--
-**nkutigwa/nkutigwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there! 👋
 
-Here are some ideas to get you started:
+I'm Vicent Wilson, a data scientist passionate about leveraging data to drive insights and create meaningful solutions. Welcome to my GitHub repository!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills and Expertise
+
+- Deep Learning
+- Natural Language Processing (NLP)
+- Machine Learning (ML)
+- Artificial Intelligence (AI)
+- Big Data Analytics
+- Data Visualization
+- Data Mining
+- Database Management
+- API Development
+- Web Full-stack Development
+
+
+## Contact 📫
+
+Feel free to connect with me or reach out for any collaboration or project opportunities:
+
+- Email: nkw802640@gmail.com
+- Phone-number: +255757650442
+
+Let's explore the world of data science together!
